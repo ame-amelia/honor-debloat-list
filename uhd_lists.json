@@ -19,7 +19,7 @@
 
     "com.hihonor.contacts.sync": {
         "list": "Oem",
-        "description": "Syncs contacts through Honor's services. There's probably only once or twice you'd ever use this in your life.\nSafe to remove.",
+        "description": "Syncs contacts through Honor's services. It's probably only once or twice that you'd ever use this in your life.\nSafe to remove.",
         "dependencies": [],
         "neededBy": [],
         "labels": [],
@@ -64,7 +64,7 @@
 
     "com.hihonor.phoneservice": {
         "list": "Oem",
-        "description": "My HONOR\nThis app gives you an official store, deals, exclusive services... Basically nothing you'd care about if you wanted to debloat your phone.\nSafe to remove..",
+        "description": "My HONOR\nThis app gives you an official store, deals, exclusive services... Basically nothing you'd care about if you wanted to debloat your phone.\nSafe to remove.",
         "dependencies": [],
         "neededBy": [],
         "labels": [],
@@ -190,7 +190,7 @@
 
     "com.hihonor.remotepassword": {
         "list": "Oem",
-        "description": "It probably has something to do with recovering forgotten screen locks and Honor ID password with your Honor account.\nRemoving will most likely break this functionality, everything else should be fine.",
+        "description": "It probably has something to do with recovering forgotten screen locks and Honor ID password with your Honor account.\nRemoving will most likely break this functionality; everything else should be fine.",
         "dependencies": [],
         "neededBy": [],
         "labels": [],
@@ -199,7 +199,7 @@
 
     "com.hihonor.searchservice": {
         "list": "Oem",
-        "description": "Fusion Search Service\nLets you search for things on your device, not unlike Apple's Spotlight Search.\nIt maybe has something to do with Circle to Search on your device, but I can't tell.\nSafe to remove.",
+        "description": "Fusion Search Service\nLets you search for things on your device, not unlike Apple's Spotlight Search.\nIt may have something to do with Circle to Search on your device, but I can't tell.\nSafe to remove.",
         "dependencies": [],
         "neededBy": [],
         "labels": [],
@@ -296,7 +296,7 @@
         "removal": "Advanced"
     },
 
-    "com.hihonor.autoinstallapkfrommmc": {
+    "com.hihonor.autoinstallapkfrommcc": {
         "list": "Oem",
         "description": "Not sure what its purpose is, but from the package name it appears to install apps based on your Mobile Country Code, i.e. region based apps.\nMost likely only ever used during setup, therefore pointless after that.\nSafe to remove.",
         "dependencies": [],
@@ -370,7 +370,7 @@
 
     "com.hihonor.airlink": {
         "list": "Oem",
-        "description": "Something related to Honor Connect.\nThis package only manages the pairing of Honor accessories. They will continue to work without it if they've already been paired.\nSafe to remove if you dont own and are not planning on owning any Honor accessories...",
+        "description": "Something related to Honor Connect.\nThis package only manages the pairing of Honor accessories. They will continue to work without it if they've already been paired.\nSafe to remove if you don't own and are not planning on owning any Honor accessories...",
         "dependencies": [],
         "neededBy": [],
         "labels": [],
@@ -467,7 +467,7 @@
         "removal": "Advanced"
     },
 
-    "com.hihonor.FloatTasks": {
+    "com.hihonor.android.FloatTasks": {
         "list": "Oem",
         "description": "The Navigation Dock feature you can enable under System navigation.\nSafe to remove if you don't use it.",
         "dependencies": [],
@@ -622,7 +622,7 @@
 
     "com.hihonor.audioaccessorymanager": {
         "list": "Oem",
-        "description": "As the name suggests, this package manages Huawei/Honor branded audio accessories and eyewear.\nFor some reason, this package can store an arbritrary amount of data ranging from 100mb to 2gb worth of data in some cases.\nProbably safe to disable if you don't use any compatible accessories, but removing it could be another thing entirely.",
+        "description": "As the name suggests, this package manages Huawei/Honor branded audio accessories and eyewear.\nFor some reason, this package can store an arbitrary amount of data ranging from 100mb to 2gb worth of data in some cases.\nProbably safe to disable if you don't use any compatible accessories, but removing it could be another thing entirely.",
         "dependencies": [],
         "neededBy": [],
         "labels": [],
@@ -881,7 +881,7 @@
         "removal": "Advanced"
     },
 
-    "com.hihonor.projectmenu": {
+    "com.hihonor.android.projectmenu": {
         "list": "Oem",
         "description": "A similarly named app exists on Huawei devices.\nIt's hidden settings not available to users. ProjectMenu interface: phone *#*#2846579#*#*",
         "dependencies": [],
@@ -935,7 +935,7 @@
         "removal": "Expert"
     },
 
-    "com.hihonor.sws": {
+    "com.hihonor.imedia.sws": {
         "list": "Oem",
         "description": "3D audio effects and other stuff. Causes minor audio glitches but otherwise safe.",
         "dependencies": [],
@@ -944,7 +944,7 @@
         "removal": "Advanced"
     },
 
-    "com.hihonor.thememanager": {
+    "com.hihonor.android.thememanager": {
         "list": "Oem",
         "description": "Honor Theme Manager. Safe to remove if you don't use this.",
         "dependencies": [],
@@ -989,7 +989,7 @@
         "removal": "Recommended"
     },
 
-    "com.hihonor.mirrorshare": {
+    "com.hihonor.android.mirrorshare": {
         "list": "Oem",
         "description": "Wireless Projection\nIt lets you mirror your device's screen to displays wirelessly. Note that it won't work without com.hihonor.desktop explorer.\nSafe to remove if you don't use it.",
         "dependencies": [],
