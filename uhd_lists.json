@@ -1,0 +1,1000 @@
+{
+    "com.hihonor.hiview": {
+        "list": "Oem",
+        "description": "This package, like com.hihonor.hiviewtunnel, also doesn't appear to have any use in the Gallery.\nThere is a similarly named app on Huawei devices which is similarly useless.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.filemanager": {
+        "list": "Oem",
+        "description": "Files\nHonor's default file manager. You can use another one like MiXplorer.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.contacts.sync": {
+        "list": "Oem",
+        "description": "Syncs contacts through Honor's services. There's probably only once or twice you'd ever use this in your life.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.assistant": {
+        "list": "Oem",
+        "description": "Honor's YOYO assistant.\nI don't use nor trust it with my data so neither should you, probably...\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.koBackup": {
+        "list": "Oem",
+        "description": "Backup\nIt has something to do with Honor's backup service. Pointless since there's already Google backup.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.associateassistant": {
+        "list": "Oem",
+        "description": "It could have something to do with YOYO assistant.\nSafe to remove if you also removed com.hihonor.assistant.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hiviewtunnel": {
+        "list": "Oem",
+        "description": "On Huawei, this package is in charge of displaying details/attributes of pictures in the gallery (ISO, exposure time, etc.). I don't see any change in the Gallery app when deleting it and com.hihonor.hiview on Honor devices, though. It could just be a useless package existing purely for legacy reasons.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.phoneservice": {
+        "list": "Oem",
+        "description": "My HONOR\nThis app gives you an official store, deals, exclusive services... Basically nothing you'd care about if you wanted to debloat your phone.\nSafe to remove..",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+     "com.hihonor.android.pushagent": {
+        "list": "Oem",
+        "description": "Push notifications for Honor apps. Seems like it's mainly used for analytics.\nNotifications from other apps will still appear as normal, thereby safe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.hnpanpayservice": {
+        "list": "Oem",
+        "description": "Sounds like the Honor cloud payment service. NFC payment and GPay aren't affected, so it's safe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.keychain": {
+        "list": "Oem",
+        "description": "Password Vault\nHonor's password manager.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hncloud": {
+        "list": "Oem",
+        "description": "Related to Honor cloud services. Probably safe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.privatespace": {
+        "list": "Oem",
+        "description": "PrivateSpace\nIt's a feature to add a secure hidden system on your device. It's probably Honor's implementation of the Work Profile.\nSafe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hnmusicplayer": {
+        "list": "Oem",
+        "description": "Music Player\nHonor's music player app.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.contactscamcard": {
+        "list": "Oem",
+        "description": "Scan Business Card\nHonor's business card scanner, which scans business cards and adds them to your contacts.\nI don't honestly know when you'll ever use it\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.compass": {
+        "list": "Oem",
+        "description": "Compass\nHonor's compass app.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.numberidentity": {
+        "list": "Oem",
+        "description": "Number Identity\nHonor's caller identification service.\nYou can use any other service besides this one, so it's pointless.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.iconnect": {
+        "list": "Oem",
+        "description": "It has something to do with Honor Connect.\nPairing of accessories will break if this package doesn't exist, but they will continue to work if they've been paired before removal.\nOtherwise safe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.linktowindowsservice": {
+        "list": "Oem",
+        "description": "Something to do with linking your device to Windows.\nYou shouldn't do this if you don't want to be tracked, and neither should you use Windows (use Arch btw).\nSafe to remove. ",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.tips": {
+        "list": "Oem",
+        "description": "Tips\nHonor Tips app. It gives you tips about how to use your phone.\nSince you're here, you probably don't need this.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.lens": {
+        "list": "Oem",
+        "description": "HONOR Lens\nIt's similar to Google Lens. Why don't you use that instead?\nThis allegedly breaks Magic Text (text recognition from photos), but I'm not sure since my device doesn't support it.\nSafe to remove if you don't use any of its features.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.remotepassword": {
+        "list": "Oem",
+        "description": "It probably has something to do with recovering forgotten screen locks and Honor ID password with your Honor account.\nRemoving will most likely break this functionality, everything else should be fine.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.searchservice": {
+        "list": "Oem",
+        "description": "Fusion Search Service\nLets you search for things on your device, not unlike Apple's Spotlight Search.\nIt maybe has something to do with Circle to Search on your device, but I can't tell.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.contacts": {
+        "list": "Oem",
+        "description": "Contacts\nHonor's contacts app.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.videoeditor": {
+        "list": "Oem",
+        "description": "Cut\nHonor's built in video editor. You can access this through the gallery app.\nSafe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.synergy": {
+        "list": "Oem",
+        "description": "Honor Cloud & Network Synergy.\nSeems to be related to B2B (Business to Business) cloud stuff.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.calendar": {
+        "list": "Oem",
+        "description": "Calendar\nHonor's calendar app.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.gameassistant": {
+        "list": "Oem",
+        "description": "Game Manager\nOverlay which has tools for 'boosting' your device performance when playing games. It sometimes mistakes apps like ibisPaint for being a game, which is annoying.\nI don't quite trust that it would actually make your performance that much better, but it should be up to you whether or not to remove it.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.livewallpaper.paradise": {
+        "list": "Oem",
+        "description": "Honor's live wallpaper app.\nSafe to remove if you don't use their live wallpapers.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.hisight": {
+        "list": "Oem",
+        "description": "Appears to be related to Honor HiVision, which gives you AR stuff and an AI camera.\nSafe to remove if you also removed com.hihonor.hiview.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hnoffice": {
+        "list": "Oem",
+        "description": "The document processing backend of Honor Docs. Safe to remove if you also removed com.hihonor.fileservice..",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.bluetooth": {
+        "list": "Oem",
+        "description": "It's used by Honor Contacts to import contacts via Bluetooth. Sounds trashy and probably nobody would ever use it.\nIt doesn't have anything to do with the system's Bluetooth implementation.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.parallelspace": {
+        "list": "Oem",
+        "description": "Parallel Space\nIt's like Samsung's Secure Folder, from what I've read.\nSafe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.autoinstallapkfrommmc": {
+        "list": "Oem",
+        "description": "Not sure what its purpose is, but from the package name it appears to install apps based on your Mobile Country Code, i.e. region based apps.\nMost likely only ever used during setup, therefore pointless after that.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.magazine": {
+        "list": "Oem",
+        "description": "Provides a daily feed on the stock Honor Home launcher. It probably tracks you a lot.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.crossdeviceserviceshare": {
+        "list": "Oem",
+        "description": "I suspect that it's part of Honor Connect for you to share data across devices connected through it. Safe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.game.kitserver": {
+        "list": "Oem",
+        "description": "Related to game boosting.\nSafe to remove if you also removed com.hihonor.gameassistant.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.appmarket": {
+        "list": "Oem",
+        "description": "App Market\nHonor's app store. Why would you use this...\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.browserhomepage": {
+        "list": "Oem",
+        "description": "Probably a custom homepage for Chrome. Pointless.\nSafe to remove!",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.pcassistant": {
+        "list": "Oem",
+        "description": "It's used to connect to your PC via HiSuite. Unrelated to ADB connections.\nSafe to remove if you don't use HiSuite.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.search": {
+        "list": "Oem",
+        "description": "This is the search function when you swipe up in the default Honor Home launcher. I don't like it.\nSafe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.airlink": {
+        "list": "Oem",
+        "description": "Something related to Honor Connect.\nThis package only manages the pairing of Honor accessories. They will continue to work without it if they've already been paired.\nSafe to remove if you dont own and are not planning on owning any Honor accessories...",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.controlcenter": {
+        "list": "Oem",
+        "description": "It's the MagicRing section in the control center.\nMagicRing lets you connect other Honor devices so you can have screen mirroring, app continuity, file transfers, and other pointless stuff. I hate ecosystems like this, I really do.\nSafe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.aipluginengine": {
+        "list": "Oem",
+        "description": "Related to Honor AI. It could break some 'smart' capabilities across system apps. I hate AI.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.mcs.media.avfoundation": {
+        "list": "Oem",
+        "description": "Not exactly sure what it is, but judging from the title, it should have something to do with AVFoundation, a multimedia framework made by Apple.\nI didn't see any issues with media in system apps. Safe to remove if you don't care about it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.mediamaterial": {
+        "list": "Oem",
+        "description": "I've not much clue as to what this does. Nobody's seen any side effect from removing.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.photos": {
+        "list": "Oem",
+        "description": "Gallery\nHonor's gallery app. Removing it will disallow you to open the most recently taken photo in the camera app. It also bars you from changing the wallpaper from the Settings app, but using different apps to change the wallpaper still works.\nSafe to remove if you can bear these consequences.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hnmediagraph": {
+        "list": "Oem",
+        "description": "I've not a good idea what this does, but the Cut app (com.hihonor.videoeditor) has permissions to read from and write to it.\nNobody's seen any side effect from removing.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.systemappsupdater": {
+        "list": "Oem",
+        "description": "This package is in charge of updating system apps. Doesn't affect anything else and also probably won't affect system apps updating via OTA updates.\nSafe to remove if you don't want it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.android.instantshare": {
+        "list": "Oem",
+        "description": "HONOR Share\nIt lets you transfer files to other Honor devices in the sharesheet. Also part of their stupid ecosystem. It doesn't affect Android's sharesheet functionality.\nNobody uses this. You should remove it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.cooperatedconfig": {
+        "list": "Oem",
+        "description": "Collaborative configuration probably has something to do with Honor Connect and MagicRing.\nSafe to remove if you don't use them.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.android.chr": {
+        "list": "Oem",
+        "description": "There's a similarly named app on Huawei devices which has something to do with Call History Records.\nSafe to remove if you don't use the stock Honor phone app.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.FloatTasks": {
+        "list": "Oem",
+        "description": "The Navigation Dock feature you can enable under System navigation.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.brain": {
+        "list": "Oem",
+        "description": "Probably something to do with Honor AI or some Magic Live service.\nSafe to remove if you don't use them.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.devicegroupmanage": {
+        "list": "Oem",
+        "description": "It could be related to Honor Connect and maybe has something to do with managing groups.\nProbably safe to remove if you don't use these.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.awareness": {
+        "list": "Oem",
+        "description": "This is related to Honor AI and YOYO assistant.\nA user on XDA Forums reported that the Honor Magic Pen won't pair if this package doesn't exist. This is not the case with the Honor Choice Pencil, but I don't own any other styluses from Honor so I can't say anything about them.\nSafe to remove if you don't use any of these features.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hnstartupguide": {
+        "list": "Oem",
+        "description": "This is the app you see when you first set up your phone. Pretty useless after that.\nSafe to remove if you've already set up your device.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.handoff": {
+        "list": "Oem",
+        "description": "It provides some functionality of Honor Connect.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.detectrepair": {
+        "list": "Oem",
+        "description": "Intelligent Diagnosis\nIt's a feature which lets you diagnose your phone for issues. It is only accessible via the My Honor app, but runs in the background.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.medialibrary": {
+        "list": "Oem",
+        "description": "This is needed for the camera app.\nOn some devices, if removed or disabled, camera will crash after taking a photo.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.android.internal.app": {
+        "list": "Oem",
+        "description": "This is needed for the Android Sharesheet. Removing this will cause some apps to crash when trying to bring up the Sharesheet.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.android.launcher": {
+        "list": "Oem",
+        "description": "Honor Home is the default launcher.\nRemoving this package on Honor devices will break system navigation, and multitasking will just not work.\nYou can replace it with another launcher, but this app is still responsible for navigations.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Unsafe"
+    },
+
+    "com.hihonor.systemmanager": {
+        "list": "Oem",
+        "description": "Removing or disabling this app will cause you to not be able to set app permissions.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Unsafe"
+    },
+
+    "com.hihonor.stylus.floatmenu": {
+        "list": "Oem",
+        "description": "This is the floating stylus menu. Upon removal, stylus settings in Accessibility features -> Stylus disappear, making configuration and updates impossible.\nSafe to remove if you don't use a stylus.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.featurelayer.sharedfeature.stylus": {
+        "list": "Oem",
+        "description": "I assume this package manages stylus-specific functions, like pressure sensitivity and whatnot, but removing it doesn't affect my Honor Choice Pencil's functionality. But I guess having 'stylus' in the name should be enough for you to not remove it if you use a stylus, right?",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.powergenie": {
+        "list": "Oem",
+        "description": "A similarly named app on Huawei devices specifically exists to kill processes running in the background to 'save battery', even if they have wakelock. This is detrimental for tasks which require you to have a process always running in the background, on Termux for example.\nThe hypocrites at Huawei/Honor whitelist some system apps and others like Facebook and Baidu from being able to be killed by PowerGenie.\nSome users on the r/Huawei Reddit state that after removing PowerGenie their device starts to become unstable.\nOn Huawei devices, removing this app will usually cause your device to instantly reboot with the app reinstalled. Honor won't do that, but it will be reinstalled on a reboot.\nMore info: https://dontkillmyapp.com/huawei",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.iaware": {
+        "list": "Oem",
+        "description": "A similarly named app on Huawei devices allegedly manages the auto starting of apps, and 'prioritises them to avoid slowdown'. Probably don't remove this package.\nhttps://xdaforums.com/t/guide-list-of-bloatware-on-emui-safe-to-remove.3700814/page-6",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.magicvoice": {
+        "list": "Oem",
+        "description": "Not sure what it does exactly, but clearly it has something to do with AI. It could possibly be the AI Voice detection features on newer phones, or something to do with the YOYO assistant. Either way, safe to remove if you don't use AI features.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "androidhnext": {
+        "list": "Oem",
+        "description": "It's probably part of the MagicOS framework. /system/framework/framework-res-hnext.apk. Removing this messes with accessing files outside of /sdcard for some reason, but it recovers somehow. I therefore have reason to believe that this package is unsafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Unsafe"
+    },
+
+    "com.hihonor.audioaccessorymanager": {
+        "list": "Oem",
+        "description": "As the name suggests, this package manages Huawei/Honor branded audio accessories and eyewear.\nFor some reason, this package can store an arbritrary amount of data ranging from 100mb to 2gb worth of data in some cases.\nProbably safe to disable if you don't use any compatible accessories, but removing it could be another thing entirely.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.camera": {
+        "list": "Oem",
+        "description": "Camera\nHonor's camera app. Remove if you don't want to take pictures, I guess.\nHas no side effects after removal from my observations.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.cameraextension": {
+        "list": "Oem",
+        "description": "I assume this provides the camera service to the Honor camera app and other apps which want it, but removing it doesnt seem to do anything to the functionality. I may be wrong, or it might not be the entire truth, so exercise caution when removing.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.deskclock": {
+        "list": "Oem",
+        "description": "Clock\nHonor's clock app.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.android.cellbroadcastreceiver.overlay": {
+        "list": "Oem",
+        "description": "Honor theme overlay for com.android.cellbroacastreceiver.",
+        "dependencies": ["com.android.cellbroadcastreceiver"],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.frameworkreshnext.overlay": {
+        "list": "Oem",
+        "description": "MagicOS framework overlay. I won't even try to remove this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Unsafe"
+    },
+
+    "com.google.android.packageinstaller.overlay": {
+        "list": "Oem",
+        "description": "Honor theme overlay for com.google.android.packageinstaller.",
+        "dependencies": ["com.google.android.packageinstaller"],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Unsafe"
+    },
+
+    "com.hihonor.credentialmanager.overlay": {
+        "list": "Oem",
+        "description": "I think it has something to do with Credential Manager (com.android.credentialmanager) on Honor devices.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hnbluetoothpencilmanager": {
+        "list": "Oem",
+        "description": "It manages Honor styluses.\nThey will pair without this package, but the stylus will not work, you will lose stylus battery info, and stylus settings will disappear.\nThe stylus works like normal when the package is removed after pairing, but you will still lose battery info and settings.\nSafe to remove if you don't use a stylus and are not planning on having one.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.permissioncontroller.overlay": {
+        "list": "Oem",
+        "description": "I think it has something to do with Permission Controller (com.google.permissioncontroller) on Honor devices.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.safetycenter.resources.overlay": {
+        "list": "Oem",
+        "description": "Honor theme overlay for com.google.android.safetycenter.resources.\nNever had any problem with the Security and Privacy settings after removing this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.safetycenter.styles.overlay": {
+        "list": "Oem",
+        "description": "Honor styles overlay for com.google.android.safetycenter.resources.\nNever had any problem with the Security and Privacy settings after removing this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.ddmp": {
+        "list": "Oem",
+        "description": "My research has found not much about this. All I can tell about it is that it manages your data, or something... It appears to not be running except during boot.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.printservice": {
+        "list": "Oem",
+        "description": "Default Print Service\nHonor's print service.\nSafe to remove if you don't print/want to use a different print service.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.trustcircle": {
+        "list": "Oem",
+        "description": "There is a similarly named app on Huawei devices.\nIt's unknown what it does, but it most likely has something to do with authenticating your device with an Honor account.\nProbably safe to remove if you don't have an account.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.collectcenter": {
+        "list": "Oem",
+        "description": "Favourites Space\nIt's a feature on Honor phones which lets you quickly save text, and files.\nSafe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.globalwrite": {
+        "list": "Oem",
+        "description": "Global Handwriting\nHandwriting plugin for styluses on Honor phones.\nSafe to remove if you don't use a stylus.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.fileservice": {
+        "list": "Oem",
+        "description": "Honor Docs\nThis is Honor's document processing app. It's nothing special and you can use a different one.\nSafe to remove.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.systemserver": {
+        "list": "Oem",
+        "description": "A similarly named app exists on Huawei devices. From uad_lists.json:\nDo not remove this. You lose phone functionality.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Unsafe"
+    },
+
+    "com.hihonor.lbs": {
+        "list": "Oem",
+        "description": "A similarly named app exists on Huawei devices. From uad_lists.json:\nLocation service? After removing it location still works, so no one knows what this app does\nLocation will still work on Honor devices after it's removed, therefore it's safe to do so.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.id": {
+        "list": "Oem",
+        "description": "Magic Mobile Service\nIt lets you manage your Honor ID account.\nSafe to remove if you don't have one.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.mediadatacenter": {
+        "list": "Oem",
+        "description": "I've completely got no clue what it does. Doesn't seem to have any effect after removing, though.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.mediaprocessor": {
+        "list": "Oem",
+        "description": "Processes media... Probably. Doesn't seem to have any effect on media related tasks on system apps, though.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.mmitest": {
+        "list": "Oem",
+        "description": "Honor hardware testing.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.motionservice": {
+        "list": "Oem",
+        "description": "Not very useful gestures available in Settings.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.hndockbar": {
+        "list": "Oem",
+        "description": "Honor's multi-window dock on the side of the screen.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.msdp": {
+        "list": "Oem",
+        "description": "A similarly named app exists on Huawei devices. From uad_lists.json:\nHas Device Status, Movement, Spatial Aware.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.carrierlocation": {
+        "list": "Oem",
+        "description": "Could send location data to your ISP, or maybe the other way around.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.desktop.explorer": {
+        "list": "Oem",
+        "description": "This is the service used to mirror your device's screen to displays wirelessly.\nSafe to remove if you also removed com.hihonor.android.mirrorshare.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.projectmenu": {
+        "list": "Oem",
+        "description": "A similarly named app exists on Huawei devices.\nIt's hidden settings not available to users. ProjectMenu interface: phone *#*#2846579#*#*",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.screenrecorder": {
+        "list": "Oem",
+        "description": "Honor's screen recording feature.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.HnMultiScreenShot": {
+        "list": "Oem",
+        "description": "Honor's scrollshot feature.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.coauthservice": {
+        "list": "Oem",
+        "description": "A similarly named app exists on Huawei devices. From uad_lists.json:\nApplock, lockscreen password, face recognition things, fingerprint, not sure if it's worth removing it. Needed for manual apk installation.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.securityserver": {
+        "list": "Oem",
+        "description": "A similarly named app exists on Huawei devices. Needed for face unlock, otherwise a black screen will be shown. Doesn't apply to all devices.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.ouc": {
+        "list": "Oem",
+        "description": "It manages OTA updates.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Expert"
+    },
+
+    "com.hihonor.sws": {
+        "list": "Oem",
+        "description": "3D audio effects and other stuff. Causes minor audio glitches but otherwise safe.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.thememanager": {
+        "list": "Oem",
+        "description": "Honor Theme Manager. Safe to remove if you don't use this.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.deviceauth": {
+        "list": "Oem",
+        "description": "I guess it's for authentication keys.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.visionengine": {
+        "list": "Oem",
+        "description": "I assume it has something to do with Honor AI Lens, or some other stuff.\nSafe to remove if you don't use any AI features.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.wallpapereditor": {
+        "list": "Oem",
+        "description": "It allows you to set your wallpaper through the Settings app.\nYou still can set wallpapers from other apps.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    },
+
+    "com.hihonor.android.wfdft": {
+        "list": "Oem",
+        "description": "Wi-Fi Direct feature.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Recommended"
+    },
+
+    "com.hihonor.mirrorshare": {
+        "list": "Oem",
+        "description": "Wireless Projection\nIt lets you mirror your device's screen to displays wirelessly. Note that it won't work without com.hihonor.desktop explorer.\nSafe to remove if you don't use it.",
+        "dependencies": [],
+        "neededBy": [],
+        "labels": [],
+        "removal": "Advanced"
+    }
+}
